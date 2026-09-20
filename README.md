@@ -98,5 +98,13 @@ are AI generated, some are derived from reference material that belongs to
 its own rights holders. If you fork this, replace the contents of `Images/`
 and `Music/` with art you own or are licensed to use before you publish or
 distribute anything.
+markdown
+
+##Contributors
+
+-Rafsan RAfi
+-Yasir Arafat Sina
+-Farhan Zunaid
+-Iqbal Mahmood Durjoy
 
 The iGraphics library and `stb_image.h` carry their own licences.
