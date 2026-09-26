@@ -104,7 +104,6 @@ markdown
 
 -Rafsan RAfi
 -Yasir Arafat Sina
--Farhan Zunaid
 -Iqbal Mahmood Durjoy
-
+-Md.Farhan Zunaid
 The iGraphics library and `stb_image.h` carry their own licences.
