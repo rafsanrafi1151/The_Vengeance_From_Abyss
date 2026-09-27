@@ -102,7 +102,7 @@ markdown
 
 ##Contributors
 
--Rafsan RAfi
+-Rafsan Rafi
 -Yasir Arafat Sina
 -Md.Farhan Zunaid
 The iGraphics library and `stb_image.h` carry their own licences.
